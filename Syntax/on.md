@@ -4,12 +4,12 @@ on is used for **Automatic Trigger** to run `*.yml`.
 
 | level | target | base | target | link |
 | :---- | :--- | :----- | :----- | :---- |
-| Base | push / fork | on: | **push:** <br> **fork:** | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md##push-or-fork) |
-| Base | issue/label | on: | **issue:** <br> **issue_comments:** <br> **label:** | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md##issue-and-label) |
-| Base | n-events | on: | **push:**/**issue:**/... | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md##n-events) |
-| Base | schedule | on: | **schedule:** |[> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md##issue-and-label) |
-| Filters | push (branches, psuh, tags) | on: <br> push: | **branches:** <br> **branches-ignore:** <br> **tags:** <br> **tags-ignore:** | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md##push-with-Filter) |
-| Filters | pull-requests (branches) | on: <br> pull-requests: | **branches:** <br> **branches-ignore:** | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md##pull-request-with-Filter) |
+| Base | push / fork | on: | **push:** <br> **fork:** | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md#push-or-fork) |
+| Base | issue/label | on: | **issue:** <br> **issue_comments:** <br> **label:** | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md#issue-and-label) |
+| Base | n-events | on: | **push:**/**issue:**/... | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md#n-events) |
+| Base | schedule | on: | **schedule:** |[> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md#issue-and-label) |
+| Filters | push (branches, psuh, tags) | on: <br> push: | **branches:** <br> **branches-ignore:** <br> **tags:** <br> **tags-ignore:** | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md#push-with-Filter) |
+| Filters | pull-requests (branches) | on: <br> pull-requests: | **branches:** <br> **branches-ignore:** | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md#pull-request-with-Filter) |
 
 - All workflows consume github workflows points
     - pull-request : 3 point
