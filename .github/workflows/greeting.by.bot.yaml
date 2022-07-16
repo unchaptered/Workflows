@@ -1,6 +1,6 @@
 # origin : https://github.com/actions/starter-workflows/blob/main/automation/greetings.yml
 
-name: Greetings
+name: util _ greeting by bot
 
 on: [ pull_request_target, issues ]
 
