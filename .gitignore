@@ -1,1 +1,6 @@
+token/
+token/*.key
+token/*.*.key
+token/*.*.*.key
+
 Example/
