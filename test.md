@@ -1,0 +1,1 @@
+Test `.github/workflows/labeling.by.bot`.
