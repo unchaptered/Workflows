@@ -1,0 +1,21 @@
+# lebel : https://github.com/actions/labeler
+# origin : https://github.com/actions/starter-workflows/blob/main/automation/label.yml
+
+name: util _ lebeling by bot
+
+on: [ pull_request ]
+
+jobs:
+  label:
+
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+      pull-requests: write
+
+    steps:
+    - uses: actions/labeler@v4
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        configuration-path: ./github/label/label.yaml

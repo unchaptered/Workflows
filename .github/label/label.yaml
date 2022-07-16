@@ -1,0 +1,13 @@
+# IF specified folder have diff, create new LABEL named `label_name`
+#
+# label_name:
+#   folder_name/*
+
+syntax:
+- 'Syntax/*/*.md'
+
+example:
+- '.github/**/**.yaml'
+
+documentation:
+- '**/**.md'
