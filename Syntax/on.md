@@ -2,6 +2,8 @@
 
 on is used for **Automatic Trigger** to run `*.yml`.
 
+> References [> Click](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+
 | level | target | base | target | link |
 | :---- | :--- | :----- | :----- | :---- |
 | Base | push / fork | on: | **push:** <br> **fork:** | [> link](https://github.com/unchaptered/Workflows/blob/main/Syntax/on.md#push-or-fork) |
@@ -214,4 +216,31 @@ on:
         branches-ignore:
             - 'unchap/3'            # named of 'unchap/3'
             - 'pre-rel/**'          # started from 'pre-rel/'
+```
+
+<hr>
+
+## workflow_call with **Filter**
+
+To use select Params from Workflows
+
+> more [> Click](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_callinputs)
+
+```yaml
+on:
+  workflow_call:
+    inputs:
+      username:
+        description: 'A username passed from the caller workflow'
+        default: 'john-doe'
+        required: false
+        type: string
+
+jobs:
+  print-username:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print the input name to STDOUT
+        run: echo The username is ${{ inputs.username }}
 ```
