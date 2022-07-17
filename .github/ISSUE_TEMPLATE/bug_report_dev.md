@@ -2,7 +2,7 @@
 name: Bug report (dev)
 about: Develop Error, in codes.
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 ---
 

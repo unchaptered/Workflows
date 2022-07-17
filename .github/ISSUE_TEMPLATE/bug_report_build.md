@@ -2,7 +2,7 @@
 name: Bug report (build)
 about: Build Error.
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 ---
 

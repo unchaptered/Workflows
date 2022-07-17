@@ -2,7 +2,7 @@
 name: Bug report (deploy)
 about: Deploy error
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 ---
 
