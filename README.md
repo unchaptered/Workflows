@@ -50,7 +50,8 @@ It's some kind of software, has the following characteristics.
 
 | file | purpose | permission | Docs |
 | :--- | :------ | :--------- | :----- |
-| `greeting.by.bot.yaml` | Auto Greeting with Bot, when you create `issue`, `pull-request` | issue: write <br> pull-request: write | [> Click]()
+| `greeting.by.bot.yaml` | Auto Greeting with Bot, when you create `issue`, `pull-request` | issue: write <br> pull-request: write | [> Click]() |
+| `labeling.by.bot.yaml` | Auto Labeling with Bot, when you create `pull-request` | pull-request: write | [> Click]() |
 
 <hr>
 
@@ -66,4 +67,4 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 ### ✅ stevemao/github-issue-templates
 
 > A collection of GitHub `issue` and `pull-request` templates.
-> More... [> Click](https://github.com/stevemao/github-issue-templates0)
+> More... [> Click](https://github.com/stevemao/github-issue-templates)
