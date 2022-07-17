@@ -68,3 +68,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 > A collection of GitHub `issue` and `pull-request` templates.
 > More... [> Click](https://github.com/stevemao/github-issue-templates)
+
+### ✅ devspace/awesome-github-templates
+
+> This is a curated list of templates that can offer inspiration for your project. An awesome template is one that informs contributors how to proceed in a very detailed or unique way.
+> More... [> Click](https://github.com/devspace/awesome-github-templates)
