@@ -1,7 +1,7 @@
 ---
 name: Docs
 about: Try to update Docs
-title: ''
+title: 'New Docs will be updated'
 labels: 'documentation'
 assignees: [ 'unchaptered' ]
 ---

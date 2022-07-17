@@ -1,9 +1,9 @@
 ---
 name: Bug report (dev)
 about: Develop Error, in codes.
-title: ''
+title: 'New Bugs is occured in development'
 labels: 'bug'
-assignees: ''
+assignees: [ 'unchaptered' ]
 ---
 
 ## Behavior

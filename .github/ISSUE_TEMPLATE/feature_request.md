@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: 'Request new feature in application'
+labels: 'add'
+assignees: [ 'unchaptered' ]
 ---
 
 ## **Is your feature request related to a problem? Please describe.**

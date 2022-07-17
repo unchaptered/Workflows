@@ -1,9 +1,9 @@
 ---
 name: Bug report (deploy)
 about: Deploy error
-title: ''
+title: 'New Bugs is occured in deployment'
 labels: 'bug'
-assignees: ''
+assignees: [ 'unchaptered' ]
 ---
 
 ## Behavior

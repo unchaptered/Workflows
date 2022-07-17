@@ -1,9 +1,9 @@
 ---
 name: Bug report (build)
 about: Build Error.
-title: ''
+title: 'New Bugs is occured in building'
 labels: 'bug'
-assignees: ''
+assignees: [ 'unchaptered' ]
 ---
 
 ## Behavior
