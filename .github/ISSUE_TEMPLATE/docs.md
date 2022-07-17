@@ -3,7 +3,7 @@ name: Docs
 about: Try to update Docs
 title: ''
 labels: 'documentation'
-assignees: 'yourself'
+assignees: 'unchaptered'
 ---
 
 ## Work Logs
