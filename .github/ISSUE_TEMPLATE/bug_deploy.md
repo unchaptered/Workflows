@@ -1,7 +1,7 @@
 ---
-name: Bug report (dev)
-about: Develop Error, in codes.
-title: 'New Bugs is occured in development'
+name: Bug in Deploy
+about: Deploy error
+title: 'New Bugs is occured in deployment'
 labels: 'bug'
 assignees: [ 'unchaptered' ]
 ---

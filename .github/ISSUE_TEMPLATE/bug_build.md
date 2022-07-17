@@ -1,7 +1,7 @@
 ---
-name: Bug report (action)
+name: Bug in Build
 about: Build Error.
-title: 'New Bugs is occured in workflows, GitHub Action'
+title: 'New Bugs is occured in building'
 labels: 'bug'
 assignees: [ 'unchaptered' ]
 ---
