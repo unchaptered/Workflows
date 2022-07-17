@@ -12,21 +12,21 @@ assignees: ''
 2. Actual behavior
 3. Describe the bug
 
-### ✅ Expected behaviors
+### 1. Expected behaviors
 
-### ✅ Actual behavior
+### 2. Actual behavior
 
-### ✅ Describe the bug
+### 3. Describe the bug
 
 ## Details
 
-### Environment
+### 1. Environment
 
 ```cmd
 - Node : v16.15.1
 - npm : v8.11.0
 ```
 
-### Screenshots
+### 2. Screenshots
 
 If you have some iamges of error, please submit it.
